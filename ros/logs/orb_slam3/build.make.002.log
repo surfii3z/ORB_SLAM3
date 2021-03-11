@@ -1,0 +1,6 @@
+[ 46%] Built target stereo_inertial
+[ 46%] Built target stereo
+[ 46%] Built target mono
+[ 61%] Built target rgbd
+[ 76%] Built target mono_inertial
+[100%] Built target mono_ar

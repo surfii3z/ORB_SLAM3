@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jy/orb_slam_ws/ORB_SLAM3/ros/devel/.private/cv_bridge/setup.sh

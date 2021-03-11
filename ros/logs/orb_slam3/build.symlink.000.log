@@ -1,0 +1,9 @@
+Symlinking /home/jy/orb_slam_ws/ORB_SLAM3/ros/devel/share/orb_slam3/cmake/orb_slam3Config.cmake
+Symlinking /home/jy/orb_slam_ws/ORB_SLAM3/ros/devel/share/orb_slam3/cmake/orb_slam3Config-version.cmake
+Symlinking /home/jy/orb_slam_ws/ORB_SLAM3/ros/devel/lib/pkgconfig/orb_slam3.pc
+Symlinking /home/jy/orb_slam_ws/ORB_SLAM3/ros/devel/lib/orb_slam3/mono_inertial
+Symlinking /home/jy/orb_slam_ws/ORB_SLAM3/ros/devel/lib/orb_slam3/mono
+Symlinking /home/jy/orb_slam_ws/ORB_SLAM3/ros/devel/lib/orb_slam3/mono_ar
+Symlinking /home/jy/orb_slam_ws/ORB_SLAM3/ros/devel/lib/orb_slam3/rgbd
+Symlinking /home/jy/orb_slam_ws/ORB_SLAM3/ros/devel/lib/orb_slam3/stereo_inertial
+Symlinking /home/jy/orb_slam_ws/ORB_SLAM3/ros/devel/lib/orb_slam3/stereo
