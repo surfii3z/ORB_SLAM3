@@ -50,3 +50,7 @@ cmake-build-debug/
 
 tools/bin_vocabulary
 Vocabulary/ORBvoc.bin
+
+ros/.catkin_tools
+devel/
+logs/
