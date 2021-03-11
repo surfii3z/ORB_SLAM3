@@ -54,3 +54,4 @@ Vocabulary/ORBvoc.bin
 ros/.catkin_tools
 devel/
 logs/
+.vscode/
